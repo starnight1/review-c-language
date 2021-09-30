@@ -1,0 +1,29 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: É¾³ý×Ö·û´®ÖÐµÄÄ³¸ö×Ö·û - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\syx\AppData\Local\Temp\RSPB58D.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib  kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/É¾³ý×Ö·û´®ÖÐµÄÄ³¸ö×Ö·û.pdb" /debug /machine:I386 /out:"Debug/É¾³ý×Ö·û´®ÖÐµÄÄ³¸ö×Ö·û.exe" /pdbtype:sept 
+".\Debug\Ö÷º¯Êý.obj"
+".\Debug\×Ö·û´®ÊäÈë¹¦ÄÜ.obj"
+".\Debug\É¾³ý×Ö·û¹¦ÄÜ.obj"
+".\Debug\×Ö·û´®´òÓ¡¹¦ÄÜ.obj"
+]
+Creating command line "link.exe @C:\Users\syx\AppData\Local\Temp\RSPB58D.tmp"
+<h3>Output Window</h3>
+Linking...
+LINK : fatal error LNK1168: cannot open Debug/É¾³ý×Ö·û´®ÖÐµÄÄ³¸ö×Ö·û.exe for writing
+Error executing link.exe.
+
+
+
+<h3>Results</h3>
+É¾³ý×Ö·û´®ÖÐµÄÄ³¸ö×Ö·û.exe - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
